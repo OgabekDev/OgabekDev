@@ -7,6 +7,9 @@
 ## Glad to see you here !✨  
 I am an Android and iOS Developer 💻 with more than (3 / 1) years experience. Being an Software Developer allows me to not only develop ✨ client-facing apps, but also develop them with state-of-the-art backend support. 🚁 I specialize in creating robust applications that meet all modern requirements. 🔥 I love designing applications that are lightweight yet powerful, distributed yet synchronized, and beautiful yet efficient. 💙 I can use Jetpack Compose, Kotlin Coroutines, Databases, Security, Servers, Optimization, as well as forward-looking technologies like Android, IOS and KMM🌟
 <br/>   
+
+## My Roadmaps
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6652df29d6b907c7f7ce20df?variant=light" alt="roadmap.sh"/></a>
   
 ## 🤝 Connect with me  
 <div align="start">
