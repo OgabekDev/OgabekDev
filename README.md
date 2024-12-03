@@ -45,7 +45,6 @@ I am an Android and iOS Developer 💻 with more than (3 / 1) years experience. 
 <p align="center">
   <a href="github.com/ogabekdev">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ogabekdev&show_icons=true&theme=light&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ogabekdev&theme=light&hide_border=true" />
   </a>
 </p>
 <br>
