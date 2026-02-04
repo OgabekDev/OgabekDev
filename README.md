@@ -21,7 +21,7 @@ I am an Android and iOS Developer 💻 with more than (3 / 1) years experience. 
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
 </a> 
 </a>
-<a href="https://play.google.com/store/apps/developer?id=ogabekdev" target="_blank">
+<a href="https://play.google.com/store/apps/developer?id=OgabekDev" target="_blank">
 <img src=https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white alt=playstore style="margin-bottom: 5px;" />
 </a> 
 </div>  
